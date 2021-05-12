@@ -1,0 +1,89 @@
+body{
+    font-family: sans-serif;
+}
+.card{
+    box-shadow: 1px 1px 5px #ccc;
+    background-color: white;
+    padding: 50px;
+    border-radius: 10px;
+    border-width: thin;
+    border-style: solid;
+}
+.form{
+    width: 400px;
+    margin: auto;
+    padding-top: 30px;
+}
+.cardTop{
+    text-align: center; 
+}
+.img{
+    width: 200px;
+    box-shadow: 1px 1px 5px palegreen;
+}
+.title{
+    color: black;
+}
+.card-group > label{
+    width: 22%;
+    color: slategray;
+    display: block;
+    font-style: initial;
+
+}
+.card-group1 > label{
+    width: 40%;
+    color: slategrey;
+    display: block;
+    font-style: initial;
+}
+.card-group > input{
+    border-radius: 5px;
+    outline: 0;
+    height: 25px;
+    width: 90%;
+    padding: 5px;
+}
+.card-group > button{    background-image:linear-gradient(to left,forestgreen,green,greenyellow);
+    width: 90%;
+    border-radius: 30px;
+    padding: 10px;
+    color: white;
+    border: 0px;
+    outline: 0;
+
+}
+.botao button:hover{
+    background-image:linear-gradient(to left,green,greenyellow,forestgreen);
+    
+}
+a.login{
+    color: darkcyan;
+    
+}
+#logo{
+    width: 70px;
+}
+.site-header {
+  background-color:  #90EE90;
+  height: 40px;
+}
+.site-header a {
+  color: #fff;
+  padding-top: 8px;
+  transition: ease-in-out color .5s;
+}
+.site-header a:hover {
+  color: #000;
+  text-decoration: none;
+}
+.card2{
+    box-shadow: 1px 1px 5px #ccc;
+    background-color: white;
+    padding: 50px;
+    border-radius: 10px;
+    border-width: thin;
+    border-style: solid;
+}
+
+
